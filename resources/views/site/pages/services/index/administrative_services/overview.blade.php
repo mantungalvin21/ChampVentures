@@ -58,7 +58,7 @@
                     <p class="mb-4">At Champ Ventures, we are dedicated to supporting Medical Services and answering any questions you may have. Whether you need assistance with our services, want to discuss potential partnerships, or have general inquiries, we're here to help.</p>
                     <div class="bg-services-card rounded d-flex align-items-center p-5 mb-4">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-white" style="width: 55px; height: 55px;">
-                            <i class="fa fa-phone-alt text-warning"></i>
+                            <i class="fa fa-phone-alt text-secondary"></i>
                         </div>
                         <div class="ms-4">
                             <p class="mb-2">Call Us Now</p>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="bg-services-card rounded d-flex align-items-center p-5">
                         <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-white" style="width: 55px; height: 55px;">
-                            <i class="fa fa-envelope-open text-warning"></i>
+                            <i class="fa fa-envelope-open text-secondary"></i>
                         </div>
                         <div class="ms-4">
                             <p class="mb-2">Mail Us Now</p>
