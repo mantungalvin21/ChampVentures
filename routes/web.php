@@ -131,3 +131,23 @@ Route::get('/services/administrative_services/why_choose', function () {
 Route::get('/services/administrative_services/faqs_for_administrative_services', function () {
     return view('site.pages.services.index.administrative_services.faqs_for_administrative_services');
 });
+
+// Industries 
+Route::get('/industries/gastroenterology', function () {
+    return view('site.pages.industries.gastroenterology');
+});
+Route::get('/industries/internal_medicine', function () {
+    return view('site.pages.industries.internal_medicine');
+});
+Route::get('/industries/pain_management', function () {
+    return view('site.pages.industries.pain_management');
+});
+Route::get('/industries/pediatric_medical', function () {
+    return view('site.pages.industries.pediatric_medical');
+});
+Route::get('/industries/physical_therapy', function () {
+    return view('site.pages.industries.physical_therapy');
+});
+Route::get('/industries/plastic_surgery', function () {
+    return view('site.pages.industries.plastic_surgery');
+});

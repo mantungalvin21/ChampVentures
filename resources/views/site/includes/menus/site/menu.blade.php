@@ -74,12 +74,12 @@
                  <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">INDUSTRIES</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="feature.html" class="dropdown-item">Gastroenterology</a>
-                        <a href="team.html" class="dropdown-item">Physical Therapy</a>
-                        <a href="team.html" class="dropdown-item">Pediatric Medical</a>
-                        <a href="team.html" class="dropdown-item">Pain Management</a>
-                        <a href="team.html" class="dropdown-item">Internal Medicine</a>
-                        <a href="team.html" class="dropdown-item">Plastic Surgery</a>
+                        <a href="/industries/gastroenterology" class="dropdown-item">Gastroenterology</a>
+                        <a href="/industries/internal_medicine" class="dropdown-item">Internal Medicine</a>
+                        <a href="/industries/pain_management" class="dropdown-item">Pain Management</a>
+                        <a href="/industries/pediatric_medical" class="dropdown-item">Pediatric Medical</a>
+                        <a href="/industries/physical_therapy" class="dropdown-item">Physical Therapy</a>
+                        <a href="/industries/plastic_surgery" class="dropdown-item">Plastic Surgery</a>
                     </div>
                 </div>
                 {{-- <a href="contact.html" class="nav-item nav-link active">Contact</a> --}}
