@@ -15,13 +15,13 @@
 @section('content')
     <div class="section1">
         <section id="hero" class="d-flex align-items-center text-light"
-            style="height: 500px; background-image: url('/assets/img/industries/gastroenterology/header1.png');
+            style="height: 500px; background-image: url('/assets/img/industries/physical/header1.png');
              background-size: cover;  background-position: left; background-repeat: no-repeat;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6"></div>
                     <div class="col-lg-6">
-                        <div class="text-center">
+                        <div class="">
                             <h2 class="text-dark mb-5">Our efficient process ensures professional, reliable, and accurate Physical Therapy Billing Services.</h2>
                         </div>
                     </div>
@@ -40,8 +40,8 @@
                 </div>
                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero2.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero3.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/physical/hero2.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/physical/hero1.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
             </div>
@@ -55,8 +55,8 @@
             <div class="row g-5 align-items-center flex-column-reverse flex-lg-row">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero4.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero5.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/physical/hero3.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/physical/hero4.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -119,7 +119,7 @@
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-4 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/credentialing/hero5.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/industries/physical/hero5.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 p-5 py-5 wow fadeIn" data-wow-delay="0.1s">
@@ -219,7 +219,7 @@
                             <p style="font-size: 20px !important;">It means gaining a dedicated team committed to the success of your practice. We work tirelessly to ensure you receive the full compensation you deserve while upholding the highest standards of compliance and patient satisfaction.</p>
                         </div>
                         <div class="col-lg-4">
-                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero6.jpg" alt="">
+                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/physical/hero6.jpg" alt="">
                         </div>
                     </div>
                 </div>

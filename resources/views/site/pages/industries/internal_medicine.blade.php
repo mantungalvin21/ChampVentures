@@ -15,14 +15,14 @@
 @section('content')
     <div class="section1">
         <section id="hero" class="d-flex align-items-center text-light"
-            style="height: 500px; background-image: url('/assets/img/industries/gastroenterology/header1.png');
+            style="height: 500px; background-image: url('/assets/img/industries/internal/header1.png');
              background-size: cover;  background-position: left; background-repeat: no-repeat;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6"></div>
                     <div class="col-lg-6">
-                        <div class="text-center">
-                            <h2 class="text-dark mb-5">Enhance Your Medical Billing Efficiency with Specialized Gastroenterology Billing Services.</h2>
+                        <div>
+                            <h2 class="text-dark mb-5">Optimize your internal medicine practice’s finances with our Integrated Medical Billing Solutions.</h2>
                         </div>
                     </div>
                 </div>
@@ -35,13 +35,14 @@
         <div class="container">
             <div class="row g-5 align-items-center flex-column-reverse flex-lg-row">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p style="font-size: 20px !important;"><b>At Champ Ventures,</b> we specialize in providing comprehensive tailored to the unique needs of gastroenterology practices. Our goal is to streamline your billing process, reduce administrative burdens, and maximize your revenue, allowing you to focus on delivering exceptional patient care.</p>
+                    <p style="font-size: 20px !important;">At Champ Ventures, we recognize the intricacies of internal medicine billing and the challenges that come with it. Our specialized billing services are crafted to streamline your billing process, optimize revenue cycle management, and ensure strict compliance with healthcare regulations. We offer a comprehensive approach that not only enhances the efficiency of your billing operations but also aims to maximize your revenue.</p>
+                    <p style="font-size: 20px !important;">By leveraging our expertise, we handle the complexities of billing so you can reduce administrative burdens and focus on what matters most: delivering exceptional care to your patients. Our goal is to provide a seamless and efficient billing experience, helping your practice achieve financial stability and growth while maintaining the highest standards of compliance and patient satisfaction.</p>
                     <a class="btn rounded-pill text-light py-3 px-5 mt-3 bg-gradient" href="/contact-us">Contact Us</a>
                 </div>
                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero2.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero3.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/internal/hero1.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/internal/hero2.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
             </div>
@@ -50,13 +51,13 @@
     <!-- About End -->
     <!-- About Start -->
     <div class="container-xxl py-5 mt-5">
-        <h1 class="text-center text-dark my-5">Why Choose Our Gastroenterology?</h1>
+        <h1 class="text-center text-dark my-5">Why Choose Our Internal Medicine?</h1>
         <div class="container">
             <div class="row g-5 align-items-center flex-column-reverse flex-lg-row">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero4.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero5.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/internal/hero3.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/internal/hero4.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -67,8 +68,8 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h5 class="text-dark mb-0">Expertise:</h5>
-                                    <p class="text-dark mb-2">Our team is well-versed in the specific coding and billing requirements for gastroenterology, ensuring accurate and efficient claims processing.</p>
+                                    <h5 class="text-dark mb-0">Expertise in Internal Medicine Billing:</h5>
+                                    <p class="text-dark mb-2">Our team possesses specialized knowledge in internal medicine billing, understanding the unique codes, regulations, and billing requirements specific to this field.</p>
                                 </div>
                             </div>
                         </div>
@@ -78,8 +79,8 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h5 class="text-dark mb-0">Compliance:</h5>
-                                    <p class="text-dark mb-2">We stay up-to-date with the latest healthcare regulations and coding changes to ensure your practice remains compliant and avoids costly errors.</p>
+                                    <h5 class="text-dark mb-0">Compliance and Accuracy:</h5>
+                                    <p class="text-dark mb-2">Maintaining compliance with healthcare regulations is critical. We adhere to strict compliance standards and conduct regular audits to ensure that your billing practices meet all regulatory requirements. </p>
                                 </div>
                             </div>
                         </div>
@@ -89,8 +90,8 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h5 class="text-dark mb-0">Maximized Revenue:</h5>
-                                    <p class="text-dark mb-2">By reducing claim denials and optimizing reimbursement rates, we help you achieve the highest possible revenue for your services.</p>
+                                    <h5 class="text-dark mb-0">Customized Solutions and Personalized Support:</h5>
+                                    <p class="text-dark mb-2">We offer tailored billing solutions designed to meet the specific needs of your internal medicine practice. </p>
                                 </div>
                             </div>
                         </div>
@@ -100,8 +101,19 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h5 class="text-dark mb-0">Personalized Service:</h5>
-                                    <p class="text-dark mb-2">We offer customized solutions tailored to the needs of your practice, providing dedicated support and regular performance reports.</p>
+                                    <h5 class="text-dark mb-0">Focus on Patient Care:</h5>
+                                    <p class="text-dark mb-2">By managing your billing processes efficiently, we enable you to concentrate on what matters most—providing exceptional care to your patients. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 45px; height: 45px;">
+                                    <i class="far fa-check-circle text-secondary"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <h5 class="text-dark mb-0">Transparent Reporting and Analytics:</h5>
+                                    <p class="text-dark mb-2">Gain insight into your practice’s financial health with our detailed reporting and analytics. We provide regular updates on key performance metrics, helping you make informed decisions and track progress toward your financial goals. </p>
                                 </div>
                             </div>
                         </div>
@@ -114,12 +126,12 @@
 
      <!-- Feature Start -->
     <div id="#whychoose" class="container-fluid overflow-hidden my-5 px-lg-0">
-        <h1 class="text-center text-dark my-5">Gastroenterology Services</h1>
-        <div class="container feature px-lg-0">
+        <h1 class="text-center text-dark my-5">Internal Medicine Services</h1>
+        <div class="container feature px-lg-0 bg-services-card">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-4 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/credentialing/hero5.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/industries/internal/hero6.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 p-5 py-5 wow fadeIn" data-wow-delay="0.1s">
@@ -128,10 +140,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">1. Comprehensive Billing and Coding</h5>
+                                        <h5 class="text-dark mb-0">1. Patient Registration and Insurance Verification</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Accurate CPT and ICD-10 coding for all gastroenterology procedures.</li>
-                                            <li class="text-dark mt-3">Detailed charge entry and claims submission.</li>
+                                            <li class="text-dark mt-3"><b>Patient Registration: </b>Efficiently manage and update patient information to ensure accuracy and completeness.</li>
+                                            <li class="text-dark mt-3"><b>Insurance Verification: </b>Confirm insurance coverage and benefits before services are provided to reduce claim rejections and financial surprises.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -139,10 +151,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">2. Claims Management</h5>
+                                        <h5 class="text-dark mb-0">2. Coding and Documentation</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Efficient management of claim submissions and follow-ups.</li>
-                                            <li class="text-dark mt-3">Regular auditing to ensure compliance and accuracy.</li>
+                                            <li class="text-dark mt-3"><b>Accurate Coding: </b>Utilize the latest ICD-10, CPT, and HCPCS codes specific to internal medicine to ensure precise billing and compliance.</li>
+                                            <li class="text-dark mt-3"><b>Documentation Review: </b>Review and enhance clinical documentation to support accurate coding and reduce claim denials.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -150,10 +162,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">3. Denial Management</h5>
+                                        <h5 class="text-dark mb-0">3. Claim Submission and Management</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Identification and resolution of denied claims.</li>
-                                            <li class="text-dark mt-3">Proactive measures to reduce future denials.</li>
+                                            <li class="text-dark mt-3"><b>Claim Submission: </b>Submit claims promptly and accurately to insurance companies, ensuring that all necessary information is included.</li>
+                                            <li class="text-dark mt-3"><b>Claim Follow-Up: </b>Monitor claim status and address any issues or discrepancies to expedite payments and resolve denials.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -161,10 +173,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">4. Patient Billing and Support</h5>
+                                        <h5 class="text-dark mb-0">4. Payment Posting and Reconciliation</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Preparation and mailing of patient statements.</li>
-                                            <li class="text-dark mt-3">Responsive support for patient billing inquiries.</li>
+                                            <li class="text-dark mt-3"><b>Payment Posting: </b>Record payments received from insurance companies and patients, keeping your financial records up-to-date.</li>
+                                            <li class="text-dark mt-3"><b>Reconciliation: </b>Regularly reconcile accounts to ensure all payments are accurately reflected and discrepancies are promptly addressed.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -172,10 +184,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">5. Financial Reporting</h5>
+                                        <h5 class="text-dark mb-0">5. Denial Management and Appeals</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Detailed financial reports to keep you informed about your practice’s performance.</li>
-                                            <li class="text-dark mt-3">Regular analysis to identify areas for improvement.</li>
+                                            <li class="text-dark mt-3"><b>Denial Management: </b>Analyze and manage claim denials to identify and address the root causes, improving future claim success rates.</li>
+                                            <li class="text-dark mt-3"><b>Appeals Process: </b>Prepare and submit appeals for denied claims, working diligently to overturn unfavorable decisions and secure the payments you are owed.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -183,10 +195,10 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">6. Compliance and Audit Support</h5>
+                                        <h5 class="text-dark mb-0">6. Patient Billing and Collections</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Ensuring adherence to all relevant healthcare regulations.</li>
-                                            <li class="text-dark mt-3">Support during audits to maintain compliance.</li>
+                                            <li class="text-dark mt-3"><b>Patient Statements: </b>Generate and send clear, accurate patient statements for outstanding balances, ensuring transparency and effective communication.</li>
+                                            <li class="text-dark mt-3"><b>Collections Management: </b>Implement strategies for managing patient collections, handling overdue balances professionally and efficiently.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -207,11 +219,11 @@
                 <div class="card-body">
                     <div class="row d-flex align-items-center">
                         <div class="col-lg-8">
-                            <p style="font-size: 20px !important;">Partnering with Champ Ventures for your gastroenterology billing needs means more than just outsourcing your billing processes. </p>
-                            <p style="font-size: 20px !important;">It means gaining a dedicated team committed to the success of your practice. We work tirelessly to ensure you receive the full compensation you deserve while maintaining the highest standards of compliance and patient satisfaction.</p>
+                            <p style="font-size: 20px !important;">When you choose Champ Ventures, you’re partnering with experts dedicated to your practice’s success. Our team brings extensive knowledge of internal medicine billing, including the latest coding and regulations, to ensure your billing is efficient and optimized for maximum revenue. </p>
+                            <p style="font-size: 20px !important;">We go beyond routine billing by proactively managing your revenue cycle to secure the full compensation you deserve. This includes meticulous claim management, strategic follow-up, and effective denial handling to reduce rejections and boost your financial performance, so you can focus on patient care.</p>
                         </div>
                         <div class="col-lg-4">
-                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero6.jpg" alt="">
+                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/internal/hero5.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -224,12 +236,12 @@
     <div class="container-xxl py-5">
         <div class="text-center">
             <h1 class="text-dark">FAQs</h1>
-            <h3 class="text-dark">Frequently Asked Questions about Gastroenterology Billing Services</h3>
+            <h3 class="text-dark">Frequently Asked Questions about Internal Billing Services</h3>
         </div>
 
         <section class="section-padding">
             <div class="container my-5">     
-                <button class="accordion">What services do you offer for gastroenterology billing?</button>
+                <button class="accordion">What services do you offer for Internal billing?</button>
                 <div class="panel services-content">
                     <p class="p-5 fs-5">At Champ Ventures, we offer comprehensive billing services, including accurate CPT and ICD-10 coding, claims management, denial management, patient billing and support, financial reporting, and compliance and audit support.</p>
                 </div>
@@ -259,9 +271,9 @@
                     <p class="p-5 fs-5">We stay up-to-date with all relevant healthcare regulations and provide ongoing compliance and audit support. Our team ensures your practice adheres to industry standards, minimizing the risk of costly errors.</p>
                 </div>
 
-                <button class="accordion">Why should we choose Champ Ventures for our gastroenterology billing needs?</button>
+                <button class="accordion">Why should we choose Champ Ventures for our Internal billing needs?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">Champ Ventures offers specialized expertise in gastroenterology billing, maximizing your revenue while minimizing administrative burdens. Our personalized service, commitment to compliance, and dedicated support make us the ideal partner for your billing needs.</p>
+                    <p class="p-5 fs-5">Champ Ventures offers specialized expertise in Internal billing, maximizing your revenue while minimizing administrative burdens. Our personalized service, commitment to compliance, and dedicated support make us the ideal partner for your billing needs.</p>
                 </div>
 
                 <button class="accordion">How can we get started with your services?</button>

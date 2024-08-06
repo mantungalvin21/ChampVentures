@@ -15,14 +15,14 @@
 @section('content')
     <div class="section1">
         <section id="hero" class="d-flex align-items-center text-light"
-            style="height: 500px; background-image: url('/assets/img/industries/gastroenterology/header1.png');
+            style="height: 500px; background-image: url('/assets/img/industries/plastic/header1.png');
              background-size: cover;  background-position: left; background-repeat: no-repeat;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6"></div>
                     <div class="col-lg-6">
-                        <div class="text-center">
-                            <h2 class="text-dark mb-5">Enhance Your Medical Billing Efficiency with Specialized Gastroenterology Billing Services.</h2>
+                        <div class="">
+                            <h2 class="text-dark mb-5">Enhance billing efficiency and ensure compliance with our expert plastic surgery medical billing solutions.</h2>
                         </div>
                     </div>
                 </div>
@@ -35,13 +35,13 @@
         <div class="container">
             <div class="row g-5 align-items-center flex-column-reverse flex-lg-row">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p style="font-size: 20px !important;"><b>At Champ Ventures,</b> we specialize in providing comprehensive tailored to the unique needs of gastroenterology practices. Our goal is to streamline your billing process, reduce administrative burdens, and maximize your revenue, allowing you to focus on delivering exceptional patient care.</p>
+                    <p style="font-size: 20px !important;"><b>At Champ Ventures, </b>we specialize in providing top-notch billing services tailored specifically for plastic surgery practices. Our dedicated team understands the unique challenges and complexities involved in plastic surgery billing, and we are committed to maximizing your revenue while ensuring compliance with all relevant regulations.</p>
                     <a class="btn rounded-pill text-light py-3 px-5 mt-3 bg-gradient" href="/contact-us">Contact Us</a>
                 </div>
                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero2.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero3.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/plastic/hero1.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/plastic/hero2.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
             </div>
@@ -50,13 +50,13 @@
     <!-- About End -->
     <!-- About Start -->
     <div class="container-xxl py-5 mt-5">
-        <h1 class="text-center text-dark my-5">Why Choose Our Gastroenterology?</h1>
+        <h1 class="text-center text-dark my-5">Why Choose Our Plastic Surgery?</h1>
         <div class="container">
             <div class="row g-5 align-items-center flex-column-reverse flex-lg-row">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero4.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/gastroenterology/hero5.jpg" alt="" style="margin-top: -25%;">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/plastic/hero3.jpg" alt="">
+                        <img class="img-fluid rounded w-50 bg-white pt-2 pe-2" src="/assets/img/industries/plastic/hero4.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -67,8 +67,19 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
+                                    <h5 class="text-dark mb-0">Expertise in Plastic Surgery Billing:</h5>
+                                    <p class="text-dark mb-2">With years of experience in the medical billing industry, our team has specialized knowledge in plastic surgery billing. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 45px; height: 45px;">
+                                    <i class="far fa-check-circle text-secondary"></i>
+                                </div>
+                                <div class="ms-4">
                                     <h5 class="text-dark mb-0">Expertise:</h5>
-                                    <p class="text-dark mb-2">Our team is well-versed in the specific coding and billing requirements for gastroenterology, ensuring accurate and efficient claims processing.</p>
+                                    <p class="text-dark mb-2">Our team has extensive experience in the specific coding and billing requirements for plastic surgery practices, ensuring accurate and timely claims processing.</p>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +90,7 @@
                                 </div>
                                 <div class="ms-4">
                                     <h5 class="text-dark mb-0">Compliance:</h5>
-                                    <p class="text-dark mb-2">We stay up-to-date with the latest healthcare regulations and coding changes to ensure your practice remains compliant and avoids costly errors.</p>
+                                    <p class="text-dark mb-2">We stay up-to-date with the latest healthcare regulations and coding updates to ensure your practice remains compliant and avoids costly errors.</p>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +100,7 @@
                                     <i class="far fa-check-circle text-secondary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <h5 class="text-dark mb-0">Maximized Revenue:</h5>
+                                    <h5 class="text-dark mb-0">Revenue Optimization:</h5>
                                     <p class="text-dark mb-2">By reducing claim denials and optimizing reimbursement rates, we help you achieve the highest possible revenue for your services.</p>
                                 </div>
                             </div>
@@ -114,12 +125,12 @@
 
      <!-- Feature Start -->
     <div id="#whychoose" class="container-fluid overflow-hidden my-5 px-lg-0">
-        <h1 class="text-center text-dark my-5">Gastroenterology Services</h1>
+        <h1 class="text-center text-dark my-5">Plastic Surgery Services</h1>
         <div class="container feature px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-4 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/credentialing/hero5.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="/assets/img/industries/plastic/hero5.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 p-5 py-5 wow fadeIn" data-wow-delay="0.1s">
@@ -128,10 +139,9 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">1. Comprehensive Billing and Coding</h5>
+                                        <h5 class="text-dark mb-0">1. Accurate Coding and Documentation</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Accurate CPT and ICD-10 coding for all gastroenterology procedures.</li>
-                                            <li class="text-dark mt-3">Detailed charge entry and claims submission.</li>
+                                            <li class="text-dark mt-3">Our certified medical coders are experts in plastic surgery coding, ensuring that all procedures and services are accurately documented and coded. This precision minimizes the risk of claim denials and maximizes reimbursement.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -139,10 +149,9 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">2. Claims Management</h5>
+                                        <h5 class="text-dark mb-0">2. Claim Submission and Follow-Up</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Efficient management of claim submissions and follow-ups.</li>
-                                            <li class="text-dark mt-3">Regular auditing to ensure compliance and accuracy.</li>
+                                            <li class="text-dark mt-3">We handle the entire claim submission process, from initial filing to follow-up on unpaid or denied claims. Our proactive approach ensures that your claims are processed efficiently and any issues are promptly addressed.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -150,10 +159,9 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">3. Denial Management</h5>
+                                        <h5 class="text-dark mb-0">3. Insurance Verification and Authorization</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Identification and resolution of denied claims.</li>
-                                            <li class="text-dark mt-3">Proactive measures to reduce future denials.</li>
+                                            <li class="text-dark mt-3">Before any procedure, our team verifies patient insurance coverage and obtains necessary authorizations. This step helps prevent delays and ensures that your practice is reimbursed for services rendered.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -163,8 +171,7 @@
                                     <div class="ms-4">
                                         <h5 class="text-dark mb-0">4. Patient Billing and Support</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Preparation and mailing of patient statements.</li>
-                                            <li class="text-dark mt-3">Responsive support for patient billing inquiries.</li>
+                                            <li class="text-dark mt-3">We manage patient billing with transparency and professionalism. Our team is available to answer patient queries, provide detailed billing statements, and set up payment plans if needed.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -172,21 +179,9 @@
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
                                     <div class="ms-4">
-                                        <h5 class="text-dark mb-0">5. Financial Reporting</h5>
+                                        <h5 class="text-dark mb-0">5. Revenue Cycle Management</h5>
                                         <ul>
-                                            <li class="text-dark mt-3">Detailed financial reports to keep you informed about your practice’s performance.</li>
-                                            <li class="text-dark mt-3">Regular analysis to identify areas for improvement.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="ms-4">
-                                        <h5 class="text-dark mb-0">6. Compliance and Audit Support</h5>
-                                        <ul>
-                                            <li class="text-dark mt-3">Ensuring adherence to all relevant healthcare regulations.</li>
-                                            <li class="text-dark mt-3">Support during audits to maintain compliance.</li>
+                                            <li class="text-dark mt-3">Our comprehensive revenue cycle management services encompass every aspect of your billing process, from scheduling and registration to final payment collection. We utilize the latest technology and best practices to streamline your revenue cycle and enhance your financial performance.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -207,11 +202,11 @@
                 <div class="card-body">
                     <div class="row d-flex align-items-center">
                         <div class="col-lg-8">
-                            <p style="font-size: 20px !important;">Partnering with Champ Ventures for your gastroenterology billing needs means more than just outsourcing your billing processes. </p>
-                            <p style="font-size: 20px !important;">It means gaining a dedicated team committed to the success of your practice. We work tirelessly to ensure you receive the full compensation you deserve while maintaining the highest standards of compliance and patient satisfaction.</p>
+                            <p style="font-size: 20px !important;">At Champ Ventures, we understand that each practice has unique needs and challenges. We offer customized solutions designed to address the specific requirements of your practice, ensuring that our services align with your goals and enhance your overall efficiency.</p>
+                            <p style="font-size: 20px !important;">Our team of billing and financial experts brings extensive experience and specialized knowledge to the table. We stay abreast of the latest industry trends, coding practices, and regulatory changes to provide you with accurate, compliant, and effective billing solutions.</p>
                         </div>
                         <div class="col-lg-4">
-                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/gastroenterology/hero6.jpg" alt="">
+                            <img class="img-fluid rounded align-self-end" src="/assets/img/industries/plastic/hero6.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -224,49 +219,44 @@
     <div class="container-xxl py-5">
         <div class="text-center">
             <h1 class="text-dark">FAQs</h1>
-            <h3 class="text-dark">Frequently Asked Questions about Gastroenterology Billing Services</h3>
+            <h3 class="text-dark">Frequently Asked Questions about Plastic Surgery Billing Services</h3>
         </div>
 
         <section class="section-padding">
             <div class="container my-5">     
-                <button class="accordion">What services do you offer for gastroenterology billing?</button>
+                <button class="accordion">What services does Champ Ventures provide for plastic surgery billing?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">At Champ Ventures, we offer comprehensive billing services, including accurate CPT and ICD-10 coding, claims management, denial management, patient billing and support, financial reporting, and compliance and audit support.</p>
+                    <p class="p-5 fs-5">We offer comprehensive billing services for plastic surgery practices, including accurate coding and documentation, claim submission and follow-up, insurance verification and authorization, patient billing and support, and revenue cycle management. Our goal is to streamline your billing process and maximize your revenue.</p>
                 </div>
 
-                <button class="accordion">How do you ensure accurate billing and coding?</button>
+                <button class="accordion">How does Champ Ventures ensure accurate coding and documentation for plastic surgery procedures?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">Our team of experts stays current with the latest healthcare regulations and coding changes. We conduct regular audits and provide detailed charge entry and claims submission to ensure accuracy and compliance.</p>
+                    <p class="p-5 fs-5">Our team of certified medical coders specializes in plastic surgery coding. They stay up-to-date with the latest coding guidelines and industry standards to ensure all procedures are documented and coded correctly. This reduces the risk of claim denials and helps maximize your reimbursements.</p>
                 </div>
 
-                <button class="accordion">Can you help with denied claims?</button>
+                <button class="accordion">What steps does Champ Ventures take to handle claim denials?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">Yes, we specialize in denial management. We identify and resolve denied claims and implement proactive measures to reduce future denials, ensuring you receive the maximum reimbursement.</p>
+                    <p class="p-5 fs-5">We have a proactive approach to managing claim denials. Our team promptly follows up on denied claims to identify and rectify any issues. We work diligently to resubmit claims with the necessary corrections and provide ongoing support to ensure timely payments.</p>
                 </div>
 
-                <button class="accordion">How do you handle patient billing inquiries?</button>
+                <button class="accordion">How does Champ Ventures manage insurance verification and authorization?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">We prepare and mail patient statements and provide responsive support for any billing inquiries. Our team is dedicated to ensuring clear communication and satisfaction for your patients.</p>
+                    <p class="p-5 fs-5">Before any procedure, we verify the patient's insurance coverage and obtain the necessary authorizations. This process helps prevent delays in claim processing and ensures that your practice is reimbursed for the services provided. Our team handles all the paperwork and communication with insurance companies on your behalf.</p>
                 </div>
 
-                <button class="accordion">What kind of financial reporting do you provide?</button>
+                <button class="accordion">How does Champ Ventures support patients with billing questions and payments?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">We offer detailed financial reports to keep you informed about your practice’s performance. Our regular analysis helps identify areas for improvement and optimize your revenue cycle.</p>
+                    <p class="p-5 fs-5">We offer patient billing support that includes answering billing-related questions, providing detailed billing statements, and setting up payment plans if needed. Our team is dedicated to ensuring a transparent and smooth billing experience for your patients.</p>
                 </div>
 
-                <button class="accordion">How do you ensure compliance with healthcare regulations?</button>
+                <button class="accordion">What are the benefits of outsourcing plastic surgery billing to Champ Ventures?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">We stay up-to-date with all relevant healthcare regulations and provide ongoing compliance and audit support. Our team ensures your practice adheres to industry standards, minimizing the risk of costly errors.</p>
+                    <p class="p-5 fs-5">Outsourcing your billing to Champ Ventures allows you to focus on patient care while we handle the administrative tasks. Our specialized billing services lead to faster payments, reduced claim denials, and increased revenue. Additionally, we provide transparent reporting and analytics to help you make informed financial decisions.</p>
                 </div>
 
-                <button class="accordion">Why should we choose Champ Ventures for our gastroenterology billing needs?</button>
+                <button class="accordion">How can I get started with Champ Ventures' Plastic Surgery Billing Services?</button>
                 <div class="panel services-content">
-                    <p class="p-5 fs-5">Champ Ventures offers specialized expertise in gastroenterology billing, maximizing your revenue while minimizing administrative burdens. Our personalized service, commitment to compliance, and dedicated support make us the ideal partner for your billing needs.</p>
-                </div>
-
-                <button class="accordion">How can we get started with your services?</button>
-                <div class="panel services-content">
-                    <p class="p-5 fs-5">Getting started is easy. Simply contact us to discuss your specific needs, and our team will work with you to develop a customized billing solution for your practice.</p>
+                    <p class="p-5 fs-5">Getting started is easy. Contact us today to learn more about our services and how we can tailor our solutions to meet the specific needs of your plastic surgery practice. Our team is ready to provide the support you need to achieve financial success and operational efficiency.</p>
                 </div>
             </div>
         </section>
