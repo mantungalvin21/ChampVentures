@@ -67,47 +67,46 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="bg-services-card rounded p-5">
-                        <h1 class="mb-4">Have Any Query? Please Contact Us!</h1>
-                        <p class="mb-4">At Champ Ventures, we are dedicated to supporting Medical Services and answering any questions you may have. Whether you need assistance with our services, want to discuss potential partnerships, or have general inquiries, we're here to help.</p>
-                        <form>
+                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="bg-services-card rounded h-100 d-flex align-items-center p-5">
+                        <form action="{{ route('send.email')}}" method="POST">
+                            @csrf
+                                @if(Session::has('success'))
+                                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                        <strong>{{ Session::get('success') }}</strong> 
+                                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                    </div>
+                                @endif
+
+                                 @if(Session::has('error'))
+                                  <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                                        <strong>{{ Session::get('error') }}</strong> 
+                                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                    </div>
+                                @endif
                             <div class="row g-3">
                                 <div class="col-12 col-sm-6">
-                                    <input type="text" class="form-control border-0" placeholder="Your Name" style="height: 55px;">
+                                    <input type="text" name="name" value="{{ old('name') }}" class="form-control border-0" placeholder="Your Name" style="height: 55px;">
+                                      @error('name') <span class="text-danger">{{ $message }}</span>  @enderror
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <input type="email" class="form-control border-0" placeholder="Your Email" style="height: 55px;">
+                                    <input type="email" name="email" value="{{ old('email') }}" class="form-control border-0" placeholder="Your Email" style="height: 55px;">
+                                      @error('email') <span class="text-danger">{{ $message }}</span>  @enderror
                                 </div>
-                                <div class="col-12 col-sm-6">
-                                    <input type="text" class="form-control border-0" placeholder="Your Mobile" style="height: 55px;">
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <select class="form-select border-0" style="height: 55px;">
+                                <div class="col-12 col-sm-12">
+                                    <select class="form-select border-0" name="subject" value="{{ old('subject') }}" style="height: 55px;">
                                         <option selected>Choose Services</option>
-                                        <option value="1">BILLING SERVICES</option>
-                                        <option value="2">CODING SERVICES</option>
-                                        <option value="3">CREDENTIALING SERVICES</option>
-                                        <option value="3">AUDITING SERVICES</option>
-                                        <option value="3">ADMINISTRATIVE SERVICES</option>
+                                        <option value="BILLING SERVICES">BILLING SERVICES</option>
+                                        <option value="CODING SERVICES">CODING SERVICES</option>
+                                        <option value="CREDENTIALING SERVICES">CREDENTIALING SERVICES</option>
+                                        <option value="AUDITING SERVICES">AUDITING SERVICES</option>
+                                        <option value="ADMINISTRATIVE SERVICES">ADMINISTRATIVE SERVICES</option>
                                     </select>
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <div class="date" id="date" data-target-input="nearest">
-                                        <input type="text"
-                                            class="form-control border-0 datetimepicker-input"
-                                            placeholder="Choose Date" data-target="#date" data-toggle="datetimepicker" style="height: 55px;">
-                                    </div>
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <div class="time" id="time" data-target-input="nearest">
-                                        <input type="text"
-                                            class="form-control border-0 datetimepicker-input"
-                                            placeholder="Choose Date" data-target="#time" data-toggle="datetimepicker" style="height: 55px;">
-                                    </div>
+                                    @error('subject') <span class="text-danger">{{ $message }}</span>  @enderror
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="form-control border-0" rows="5" placeholder="I am interested in*"></textarea>
+                                    <textarea class="form-control border-0" name="message" value="{{ old('message') }}" rows="5" placeholder="Message"></textarea>
+                                     @error('message') <span class="text-danger">{{ $message }}</span>  @enderror
                                 </div>
                                 <div class="col-12">
                                     <button  class="btn bg-gradient text-light w-100 py-3" type="submit">Book Appointment</button>

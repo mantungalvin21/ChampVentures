@@ -1,14 +1,18 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 Route::get('/', function () {
     return view('site.pages.index');
 });
 
-Route::get('/contact-us', function () {
-    return view('site.pages.contact-us');
-});
+// Route::get('/contact-us', function () {
+//     return view('site.pages.contact-us');
+// });
+
+Route::view('/contact-us', 'site.pages.contact-us')->name('site.pages.contact-us');
+Route::post('/send', [ContactController::class, 'send'])->name('send.email');
 
 Route::get('/about_us/mission_&_vision_statement', function () {
     return view('site.pages.about-us.mission_&_vision_statement');
