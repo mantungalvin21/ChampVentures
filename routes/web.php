@@ -155,3 +155,6 @@ Route::get('/industries/physical_therapy', function () {
 Route::get('/industries/plastic_surgery', function () {
     return view('site.pages.industries.plastic_surgery');
 });
+Route::get('/industries', function () {
+    return view('site.pages.industries.index');
+});

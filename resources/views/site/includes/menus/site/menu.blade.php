@@ -71,6 +71,7 @@
                         <a href="/services/administrative_services/faqs_for_administrative_services" class="dropdown-item">FAQs for Administrative Services</a>
                     </div>
                 </div>
+                <a href="/industries" class="nav-item nav-link">INDUSTRIES</a>
                  {{-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">INDUSTRIES</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
