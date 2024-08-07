@@ -71,7 +71,7 @@
                         <a href="/services/administrative_services/faqs_for_administrative_services" class="dropdown-item">FAQs for Administrative Services</a>
                     </div>
                 </div>
-                 <div class="nav-item dropdown">
+                 {{-- <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">INDUSTRIES</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
                         <a href="/industries/gastroenterology" class="dropdown-item">Gastroenterology</a>
@@ -81,7 +81,7 @@
                         <a href="/industries/physical_therapy" class="dropdown-item">Physical Therapy</a>
                         <a href="/industries/plastic_surgery" class="dropdown-item">Plastic Surgery</a>
                     </div>
-                </div>
+                </div> --}}
                 {{-- <a href="contact.html" class="nav-item nav-link active">Contact</a> --}}
             </div>
             <a href="/contact-us" class="btn bg-gradient text-light rounded-0 py-4 px-lg-5 d-none d-lg-block">CONTACT US<i class="fa fa-arrow-right ms-3"></i></a>

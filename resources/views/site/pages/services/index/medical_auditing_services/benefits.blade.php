@@ -1,15 +1,15 @@
 @extends('site.includes.layouts.main')
 
 @section("meta")
-	<title>Home</title>
+	<title>Benefits</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta property="type" content="Synergy Tax & Finance">
-    <meta property="title" content="Home">
-    <meta name="keyword" content="Financial, Accounting Services, Payroll, Bookkeeping, Tax Planning & Preparation">
-    <meta name="description" content="We specialize in providing comprehensive accounting solutions tailored to meet your unique business needs." itemprop="description"> 
-    <meta property="image" content="/dist/images/header1.jpg">
+    <meta property="type" content="Champ Ventures">
+    <meta property="title" content="Benefits">
+    <meta name="keyword" content="MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICESMEDICAL BILLING SERVICES, MEDICAL AUDITING SERVICES, PHYSICIAN CREDENTIALING SERVICES">
+    <meta name="description" content="Ensuring that all billing practices comply with current regulatory requirements and coding standards, reducing" itemprop="description"> 
+    <meta property="image" content="/assets/img/medical_billing/bg_auditing.png">
 @endsection
 
 @section('content')

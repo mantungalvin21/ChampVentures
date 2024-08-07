@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta property="type" content="Synergy Tax & Finance">
+    <meta property="type" content="Champ Ventures">
     <meta property="title" content="Home">
-    <meta name="keyword" content="Financial, Accounting Services, Payroll, Bookkeeping, Tax Planning & Preparation">
-    <meta name="description" content="We specialize in providing comprehensive accounting solutions tailored to meet your unique business needs." itemprop="description"> 
-    <meta property="image" content="/dist/images/header1.jpg">
+    <meta name="keyword" content="MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICESMEDICAL BILLING SERVICES, MEDICAL AUDITING SERVICES, PHYSICIAN CREDENTIALING SERVICES">
+    <meta name="description" content="You sought a career as a medical or mental health professional to assist people with their healing process" itemprop="description"> 
+    <meta property="image" content="/assets/img/carousel-1.jpg">
 @endsection
 
 @section('content')
@@ -37,7 +37,7 @@
                     <div class="owl-carousel-item position-relative">
                         <img class="img-fluid" src="/assets/img/carousel-2.jpg" alt="">
                         <div class="owl-carousel-text">
-                            <h1 class="display-1 text-white mb-0">MEDICAL CODING SERVICES</h1>
+                            <h1 class="display-1 text-white mb-0">MEDICAL BILLING SERVICESMEDICAL BILLING SERVICES</h1>
                         </div>
                     </div>
                     <div class="owl-carousel-item position-relative">
