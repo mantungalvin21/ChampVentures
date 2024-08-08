@@ -12,7 +12,6 @@
     <meta property="image" content="/assets/img/medical_billing/bg_auditing.png">
 @endsection
 
-
 @section('content')
     <div class="section1">
         <section id="hero" class="d-flex align-items-center text-light"
