@@ -1,5 +1,5 @@
  <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 wow fadeIn" data-wow-delay="0.1s">
+    <nav class="navbar navbar-expand-lg bg-white navbar-light fixed-top p-0 wow fadeIn" data-wow-delay="0.1s">
         <a href="/" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
             <img src="/assets/img/ventureslogo1.png" width="200" alt="">
         </a>
@@ -46,7 +46,7 @@
                         <a href="/services/credentialing_services/detailed_credentialing_services" class="dropdown-item">Detailed Credentialing Services</a>
                         <a href="/services/credentialing_services/benefits" class="dropdown-item">Benefits of Our Credentialing Services</a>
                         <a href="/services/credentialing_services/why_choose" class="dropdown-item">Why Choose Champ Ventures Inc.?</a>
-                        <a href="/services/credentialing_services/faqs_for_medical_billing" class="dropdown-item">FAQs for Medical Billing</a>
+                        <a href="/services/credentialing_services/faqs_for_credentialing" class="dropdown-item">FAQs for Medical Billing</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
@@ -57,7 +57,7 @@
                         <a href="/services/auditing_services/detailed_auditing_services" class="dropdown-item">Detailed Credentialing Services</a>
                         <a href="/services/auditing_services/benefits" class="dropdown-item">Benefits of Our Auditing Services</a>
                         <a href="/services/auditing_services/why_choose" class="dropdown-item">Why Choose Champ Ventures Inc.?</a>
-                        <a href="/services/auditing_services/faqs_for_medical_billing" class="dropdown-item">FAQs for Medical Billing</a>
+                        <a href="/services/auditing_services/faqs_for_medical_auditing" class="dropdown-item">FAQs for Medical Auditing</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">

@@ -86,8 +86,8 @@ Route::get('/services/credentialing_services/benefits', function () {
 Route::get('/services/credentialing_services/why_choose', function () {
     return view('site.pages.services.index.credentialing_services.why_choose');
 });
-Route::get('/services/credentialing_services/faqs_for_medical_billing', function () {
-    return view('site.pages.services.index.credentialing_services.faqs_for_medical_billing');
+Route::get('/services/credentialing_services/faqs_for_credentialing', function () {
+    return view('site.pages.services.index.credentialing_services.faqs_for_credentialing_services');
 });
 
 // Auditing Services Quick Links
@@ -109,7 +109,7 @@ Route::get('/services/auditing_services/benefits', function () {
 Route::get('/services/auditing_services/why_choose', function () {
     return view('site.pages.services.index.medical_auditing_services.why_choose');
 });
-Route::get('/services/auditing_services/faqs_for_medical_billing', function () {
+Route::get('/services/auditing_services/faqs_for_medical_auditing', function () {
     return view('site.pages.services.index.medical_auditing_services.faqs_for_auditing_services');
 });
 
