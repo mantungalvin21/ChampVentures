@@ -220,7 +220,6 @@
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Streamlined workflow - fast and efficient turn around time</p>
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Effective communication and provider(s) involvement</p>
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Overall reduction in overhead cost and increase in cashflow</p>
-                    <a class="btn rounded-pill text-light py-3 px-5 mt-3 bg-gradient" href="/contact-us">Contact Us</a>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
@@ -240,6 +239,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Make An Appointment.</h1>
                     <p class="mb-4">At Champ Ventures, we are dedicated to supporting Medical Services and answering any questions you may have. Whether you need assistance with our services, want to discuss potential partnerships, or have general inquiries, we're here to help.</p>
+                    <a class="btn rounded-pill text-light py-3 px-5 mt-3 bg-gradient" href="/contact-us">Contact Us</a>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-services-card rounded d-flex align-items-center p-5 mb-4">

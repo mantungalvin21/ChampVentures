@@ -22,7 +22,7 @@
                     <div class="col-md-6"></div>
                     <div class="col-lg-6">
                         <div class="text text-center">
-                            <h1 class="display-4 text-dark mb-5">FAQsfor Physician Credentialing Services</h1>
+                            <h1 class="display-4 text-dark mb-5">FAQs for Physician Credentialing Services</h1>
                         </div>
                     </div>
                 </div>

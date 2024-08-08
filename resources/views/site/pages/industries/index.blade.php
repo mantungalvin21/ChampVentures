@@ -1,15 +1,15 @@
 @extends('site.includes.layouts.main')
 
 @section("meta")
-	<title>Administrative Overview</title>
+	<title>Industries</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta property="type" content="Champ Ventures">
-    <meta property="title" content="Administrative Overview">
+    <meta property="title" content="Industries">
     <meta name="keyword" content="MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICES, MEDICAL BILLING SERVICESMEDICAL BILLING SERVICES, MEDICAL AUDITING SERVICES, PHYSICIAN CREDENTIALING SERVICES">
-    <meta name="description" content="In the fast-paced world of healthcare, efficient administrative services are crucial for the smooth operation" itemprop="description"> 
-    <meta property="image" content="/assets/img/medical_billing/bg_administrative.png">
+    <meta name="description" content="Here are the top specialties in which we help healthcare physicians across.." itemprop="description"> 
+    <meta property="image" content="/assets/img/industries/header1.png">
 @endsection
 
 @section('content')
