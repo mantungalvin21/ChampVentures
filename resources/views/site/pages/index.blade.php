@@ -219,8 +219,7 @@
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Premium quality services for the price</p>
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Streamlined workflow - fast and efficient turn around time</p>
                     <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Effective communication and provider(s) involvement</p>
-                    <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Overall reduction in overhead cost and increase in cashflow</p>
-                </div>
+                    <p style="font-size: 20px !important;"><i class="far fa-check-circle text-secondary me-3"></i>Overall reduction in overhead cost and increase in cashflow</p>                   </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="d-flex flex-column">
                         <img class="img-fluid rounded w-75 align-self-end" src="/assets/img/carousel-1.jpg" alt="">

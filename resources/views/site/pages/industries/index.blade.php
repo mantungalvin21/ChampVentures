@@ -65,7 +65,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero1.png" alt="">
                         <h4 class="mb-3 mt-4">Gastroenterology</h4>
                         <p class="mb-4">Enhance Your Medical Billing Efficiency with Specialized Gastroenterology Billing Services.</p>
-                        <a class="btn" href="/industries/gastroenterology"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/gastroenterology"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -73,7 +73,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero2.png" alt="">
                         <h4 class="mb-3 mt-4">Physical Therapy</h4>
                         <p class="mb-4">Our efficient process ensures professional, reliable, and accurate Physical Therapy Billing Services.</p>
-                        <a class="btn" href="/industries/physical_therapy"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/physical_therapy"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -81,7 +81,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero3.png" alt="">
                         <h4 class="mb-3 mt-4">Pediatric Medical</h4>
                         <p class="mb-4">At Champ Ventures, we are dedicated to ensuring you receive the maximum reimbursement for your pediatric healthcare services. </p>
-                        <a class="btn" href="/industries/pediatric_medical"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/pediatric_medical"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -89,7 +89,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero4.png" alt="">
                         <h4 class="mb-3 mt-4">Pain Management</h4>
                         <p class="mb-4">Optimize your revenue cycle and boost operational efficiency with our specialized reimbursement services for pain management healthcare providers.</p>
-                        <a class="btn" href="/industries/pain_management"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/pain_management"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -97,7 +97,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero5.png" alt="">
                         <h4 class="mb-3 mt-4">Internal Medicine</h4>
                         <p class="mb-4">Optimize your internal medicine practice’s finances with our Integrated Medical Billing Solutions.</p>
-                        <a class="btn" href="/industries/internal_medicine"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/internal_medicine"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -105,7 +105,7 @@
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero6.png" alt="">
                         <h4 class="mb-3 mt-4">Plastic Surgery</h4>
                         <p class="mb-4">Enhance billing efficiency and ensure compliance with our expert plastic surgery medical billing solutions.</p>
-                        <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
             </div>
