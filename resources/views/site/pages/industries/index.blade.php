@@ -60,51 +60,164 @@
                 <h1>Our Services</h1>
             </div>
             <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero1.png" alt="">
                         <h4 class="mb-3 mt-4">Gastroenterology</h4>
-                        <p class="mb-4">Enhance Your Medical Billing Efficiency with Specialized Gastroenterology Billing Services.</p>
                         {{-- <a class="btn" href="/industries/gastroenterology"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero2.png" alt="">
                         <h4 class="mb-3 mt-4">Physical Therapy</h4>
-                        <p class="mb-4">Our efficient process ensures professional, reliable, and accurate Physical Therapy Billing Services.</p>
                         {{-- <a class="btn" href="/industries/physical_therapy"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero3.png" alt="">
                         <h4 class="mb-3 mt-4">Pediatric Medical</h4>
-                        <p class="mb-4">At Champ Ventures, we are dedicated to ensuring you receive the maximum reimbursement for your pediatric healthcare services. </p>
                         {{-- <a class="btn" href="/industries/pediatric_medical"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero4.png" alt="">
                         <h4 class="mb-3 mt-4">Pain Management</h4>
-                        <p class="mb-4">Optimize your revenue cycle and boost operational efficiency with our specialized reimbursement services for pain management healthcare providers.</p>
                         {{-- <a class="btn" href="/industries/pain_management"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero5.png" alt="">
                         <h4 class="mb-3 mt-4">Internal Medicine</h4>
-                        <p class="mb-4">Optimize your internal medicine practice’s finances with our Integrated Medical Billing Solutions.</p>
                         {{-- <a class="btn" href="/industries/internal_medicine"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero6.png" alt="">
+                        <h4 class="mb-3 mt-4">Plastic Surgery</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero7.png" alt="">
+                        <h4 class="mb-3 mt-4">Radiation Oncology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero8.png" alt="">
+                        <h4 class="mb-3 mt-4">Otolaryngology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero9.png" alt="">
+                        <h4 class="mb-3 mt-4">Dermatology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero10.png" alt="">
+                        <h4 class="mb-3 mt-4">Ophthalmology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero11.png" alt="">
+                        <h4 class="mb-3 mt-4">Oncology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero12.png" alt="">
+                        <h4 class="mb-3 mt-4">Cardiology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero13.png" alt="">
+                        <h4 class="mb-3 mt-4">Neurosurgery</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero14.png" alt="">
+                        <h4 class="mb-3 mt-4">Chiropractic</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero14.png" alt="">
+                        <h4 class="mb-3 mt-4">Chiropractic</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero15.png" alt="">
+                        <h4 class="mb-3 mt-4">Behavioral Health</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero16.png" alt="">
+                        <h4 class="mb-3 mt-4">Orthopedic</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero17.png" alt="">
+                        <h4 class="mb-3 mt-4">Vascular Surgery</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero18.png" alt="">
+                        <h4 class="mb-3 mt-4">Urology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero19.png" alt="">
+                        <h4 class="mb-3 mt-4">Radiology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero6.png" alt="">
-                        <h4 class="mb-3 mt-4">Plastic Surgery</h4>
-                        <p class="mb-4">Enhance billing efficiency and ensure compliance with our expert plastic surgery medical billing solutions.</p>
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero20.png" alt="">
+                        <h4 class="mb-3 mt-4">Anesthesiology</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero21.png" alt="">
+                        <h4 class="mb-3 mt-4">General Surgery</h4>
+                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
+                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero22.png" alt="">
+                        <h4 class="mb-3 mt-4">Colon and Rectal</h4>
                         {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
