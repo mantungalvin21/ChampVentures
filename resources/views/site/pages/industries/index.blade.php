@@ -160,13 +160,6 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
-                        <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero14.png" alt="">
-                        <h4 class="mb-3 mt-4">Chiropractic</h4>
-                        {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero15.png" alt="">
                         <h4 class="mb-3 mt-4">Behavioral Health</h4>
                         {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
@@ -200,21 +193,22 @@
                         {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero20.png" alt="">
                         <h4 class="mb-3 mt-4">Anesthesiology</h4>
                         {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-md-3"></div>
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero21.png" alt="">
                         <h4 class="mb-3 mt-4">General Surgery</h4>
                         {{-- <a class="btn" href="/industries/plastic_surgery"><i class="fa fa-plus text-secondary me-3"></i>Learn More</a> --}}
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-services-card rounded h-100 p-5 text-center">
                         <img class="img-fluid rounded align-self-end" src="/assets/img/industries/hero22.png" alt="">
                         <h4 class="mb-3 mt-4">Colon and Rectal</h4>

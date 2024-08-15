@@ -63,7 +63,7 @@
                         </div>
                         <div class="ms-4">
                             <p class="mb-2">Mail Us Now</p>
-                            <h5 class="mb-0">champventuresinc@yahoo.com</h5>
+                            <h5 class="mb-0">chando@champventuresinc.com</h5>
                         </div>
                     </div>
                 </div>
